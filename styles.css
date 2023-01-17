@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+#skills
+{
+    background: antiquewhite;
+    margin-left: 100px;
+}
+
+#projects{
+    background: navajowhite;
+    margin-left: 100px;
+}
